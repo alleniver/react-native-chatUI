@@ -7,7 +7,7 @@
     "test": "jest"
   },
   "dependencies": {
-    "react": "16.2.0",
+    "react": "16.5.0",
     "react-native": "^0.53.0",
     "react-native-modalbox": "^1.6.0",
     "rn-viewpager": "^1.2.9"
